@@ -1,1 +1,1 @@
-# SimpleOnlineStore
+# WhimsyWorks
